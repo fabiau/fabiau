@@ -11,8 +11,8 @@ My name is Augusto. I'm a front-end developer passionate about **TypeScript, Jav
 👯 I’m looking to collaborate on any front-end project/lib 😉
 
 <a href="https://github.com/augustofabianrodrigues">
-  <img align="top" src="https://github-readme-stats.vercel.app/api?username=augustofabianrodrigues&show_icons=true&theme=synthwave" />
+  <img align="top" src="https://github-readme-stats.vercel.app/api?username=augustofabianrodrigues&show_icons=true" />
 </a>
 <a href="https://github.com/augustofabianrodrigues">
-  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=augustofabianrodrigues&theme=synthwave" />
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=augustofabianrodrigues" />
 </a>
