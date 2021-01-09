@@ -14,5 +14,5 @@ My name is Augusto. I'm a front-end developer passionate about **TypeScript, Jav
   <img align="top" src="https://github-readme-stats.vercel.app/api?username=fabiau&show_icons=true&theme=synthwave" />
 </a>
 <a href="https://github.com/fabiau">
-  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiau&theme=synthwave" />
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiau&theme=synthwave&langs_count=3" />
 </a>
